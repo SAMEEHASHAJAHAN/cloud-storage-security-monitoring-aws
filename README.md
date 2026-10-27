@@ -68,6 +68,13 @@ This project demonstrates fundamental cloud security practices using Amazon Web 
 - CloudTrail event analysis.
 - Basic cloud security investigation.
 
+  ## Architecture Diagram
+
+This diagram illustrates the IAM access controls, S3 security configuration, and CloudTrail management-event investigation used in this project.
+
+[View the AWS Security Architecture Diagram (PDF)](aws_architecture_diagram.pdf)
+
+
 ## Disclaimer
 
 This project was created for educational purposes. Findings are limited to the AWS configurations and events examined during the project.
