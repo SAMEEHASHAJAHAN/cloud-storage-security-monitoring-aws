@@ -82,6 +82,7 @@ This project was created for educational purposes. Findings are limited to the A
 ## Author
 
 **Sameeha Shajahan**
+
 Cybersecurity Learner | Cloud Security | SOC Analysis
 
 - GitHub: [SAMEEHASHAJAHAN](https://github.com/SAMEEHASHAJAHAN)
